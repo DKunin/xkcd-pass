@@ -1,0 +1,29 @@
+{
+  "name": "xkcd-pass",
+  "version": "0.0.1",
+  "private": false,
+  "bin": "cli.js",
+  "main": "index.js",
+  "author": {
+    "name": "Dmitri Kunin",
+    "email": "info@dkun.in",
+    "url": "dkunin.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dkunin/xkcd-pass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkunin/xkcd-pass/issues"
+  },
+  "scripts": {
+  },
+  "homepage": "https://github.com/dkunin/xkcd-pass",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "meow": "4.0.0",
+    "mnemonic-words": "1.0.0",
+    "unique-random-array": "1.0.0"
+  }
+}
