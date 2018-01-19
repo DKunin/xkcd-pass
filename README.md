@@ -33,4 +33,4 @@ PRs accepted.
 
 ## License
 
-MIT © Richard McRichface
+MIT © Dmitri Kunin
