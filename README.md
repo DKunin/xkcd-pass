@@ -5,7 +5,7 @@
 ## Install
 
 ```
-npm i xkcd -g
+npm i @dkunin/xkcd-pass -g
 ```
 
 ## Usage

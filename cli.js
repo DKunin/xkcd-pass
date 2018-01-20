@@ -23,8 +23,6 @@ const cli = meow({
     ].join('\n')
 });
 
-console.log(cli.flags);
-
 if (cli.flags.all) {
     // eslint-disable-next-line
     console.log(mnemWords.all.join('\n'));

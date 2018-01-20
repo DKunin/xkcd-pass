@@ -1,8 +1,10 @@
 {
-  "name": "xkcd-pass",
-  "version": "0.0.1",
+  "name": "@dkunin/xkcd-pass",
+  "version": "0.0.2",
   "private": false,
-  "bin": "cli.js",
+  "bin": {
+    "xkcd-pass": "cli.js"
+  },
   "main": "index.js",
   "author": {
     "name": "Dmitri Kunin",
